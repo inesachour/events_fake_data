@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "title": "Tech Innovators Meetup",
     "description": "A networking event for developers and tech enthusiasts to discuss the latest trends in software development and AI.",
     "date": "2026-02-15T18:30:00Z",
@@ -8,6 +9,7 @@
     "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
   },
   {
+    "id": 2,
     "title": "Live Jazz Night",
     "description": "Enjoy an evening of live jazz music featuring local and international artists.",
     "date": "2026-02-20T20:00:00Z",
@@ -16,6 +18,7 @@
     "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
   },
   {
+    "id": 3,
     "title": "Startup Pitch Day",
     "description": "Early-stage startups pitch their ideas to investors and industry experts.",
     "date": "2026-03-05T09:00:00Z",
@@ -24,6 +27,7 @@
     "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7"
   },
   {
+    "id": 4,
     "title": "Digital Marketing Workshop",
     "description": "A hands-on workshop covering SEO, social media strategies, and content marketing.",
     "date": "2026-03-12T14:00:00Z",
@@ -32,6 +36,7 @@
     "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0"
   },
   {
+    "id": 5,
     "title": "Open Air Movie Night",
     "description": "Outdoor cinema experience with a classic movie, snacks, and drinks.",
     "date": "2026-03-18T19:30:00Z",
