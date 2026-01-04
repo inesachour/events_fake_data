@@ -5,8 +5,12 @@
     "description": "A networking event for developers and tech enthusiasts to discuss the latest trends in software development and AI.",
     "date": "2026-02-15T18:30:00Z",
     "location": "Tunis, Tunisia",
-    "category": "Technology",
-    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+    "categories": ["Technology", "Networking", "AI"],
+    "images": [
+      "https://images.unsplash.com/photo-1518770660439-4636190af475",
+      "https://images.unsplash.com/photo-1551836022-d5d88e9218df",
+      "https://images.unsplash.com/photo-1522071820081-009f0129c71c"
+    ]
   },
   {
     "id": 2,
@@ -14,8 +18,11 @@
     "description": "Enjoy an evening of live jazz music featuring local and international artists.",
     "date": "2026-02-20T20:00:00Z",
     "location": "Sousse, Tunisia",
-    "category": "Music",
-    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    "categories": ["Music", "Live", "Entertainment"],
+    "images": [
+      "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
+      "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91"
+    ]
   },
   {
     "id": 3,
@@ -23,8 +30,11 @@
     "description": "Early-stage startups pitch their ideas to investors and industry experts.",
     "date": "2026-03-05T09:00:00Z",
     "location": "Tunis, Tunisia",
-    "category": "Business",
-    "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7"
+    "categories": ["Business", "Startups", "Investment"],
+    "images": [
+      "https://images.unsplash.com/photo-1556761175-5973dc0f32e7",
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+    ]
   },
   {
     "id": 4,
@@ -32,8 +42,11 @@
     "description": "A hands-on workshop covering SEO, social media strategies, and content marketing.",
     "date": "2026-03-12T14:00:00Z",
     "location": "Online",
-    "category": "Marketing",
-    "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0"
+    "categories": ["Marketing", "Workshop", "SEO"],
+    "images": [
+      "https://images.unsplash.com/photo-1557804506-669a67965ba0",
+      "https://images.unsplash.com/photo-1542744173-8e7e53415bb0"
+    ]
   },
   {
     "id": 5,
@@ -41,7 +54,10 @@
     "description": "Outdoor cinema experience with a classic movie, snacks, and drinks.",
     "date": "2026-03-18T19:30:00Z",
     "location": "La Marsa, Tunisia",
-    "category": "Entertainment",
-    "image": "https://images.unsplash.com/photo-1502139214982-d0ad755818d8"
+    "categories": ["Entertainment", "Movies", "Outdoor"],
+    "images": [
+      "https://images.unsplash.com/photo-1502139214982-d0ad755818d8",
+      "https://images.unsplash.com/photo-1497032205916-ac775f0649ae"
+    ]
   }
 ]
